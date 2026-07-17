@@ -23,8 +23,7 @@ export default function Hero() {
           a seat.
         </h1>
         <p className="mt-6 max-w-md font-accent text-lg italic text-cream-dim">
-          A barbershop and salon under one roof &mdash; classic cuts, hot
-          towel shaves, and color, done right.
+          A barbershop and salon under one roof.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4">
